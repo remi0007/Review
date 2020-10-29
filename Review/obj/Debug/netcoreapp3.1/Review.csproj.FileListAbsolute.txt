@@ -1,0 +1,13 @@
+C:\Users\Owners\Desktop\NewRepos\Review\Review\bin\Debug\netcoreapp3.1\Review.exe
+C:\Users\Owners\Desktop\NewRepos\Review\Review\bin\Debug\netcoreapp3.1\Review.deps.json
+C:\Users\Owners\Desktop\NewRepos\Review\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.json
+C:\Users\Owners\Desktop\NewRepos\Review\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.dev.json
+C:\Users\Owners\Desktop\NewRepos\Review\Review\bin\Debug\netcoreapp3.1\Review.dll
+C:\Users\Owners\Desktop\NewRepos\Review\Review\bin\Debug\netcoreapp3.1\Review.pdb
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.csprojAssemblyReference.cache
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfoInputs.cache
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfo.cs
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.csproj.CoreCompileInputs.cache
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.dll
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.pdb
+C:\Users\Owners\Desktop\NewRepos\Review\Review\obj\Debug\netcoreapp3.1\Review.genruntimeconfig.cache
